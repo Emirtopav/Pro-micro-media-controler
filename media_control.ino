@@ -1,6 +1,6 @@
 /*
   MIT License
-  Copyright (c) 2025 Emirtopay
+  Copyright (c) 2025 Emirtopav
   
   This code is licensed under the MIT License.
   See LICENSE file for details.
