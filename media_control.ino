@@ -1,3 +1,10 @@
+/*
+  MIT License
+  Copyright (c) 2025 Emirtopay
+  
+  This code is licensed under the MIT License.
+  See LICENSE file for details.
+*/
 #include <HID-Project.h>
 #include <HID-Settings.h>
 
